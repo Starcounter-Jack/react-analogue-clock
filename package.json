@@ -1,5 +1,5 @@
 {
-  "name": "react-analogue-clock",
+  "name": "starcounter-jack-react-analogue-clock",
   "version": "0.3.2",
   "main": "build/index.js",
   "module": "build/index.es.js",
